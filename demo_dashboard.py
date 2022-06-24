@@ -11,6 +11,7 @@ external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
 app = Dash(__name__, title='Dashboard', external_stylesheets=external_stylesheets)
 
 #df = pd.read_csv('00_Aux_files/out.csv')
+#comment bla vla
 
 today = date.today()
 
